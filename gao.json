@@ -1,6 +1,6 @@
 {
 
-	"spider": "https://raw.fastgit.org/gao410940747/TVBox-zyjk/main/JAR/fm.jar",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 	"lives": [
 		//{"name":"综合一","type":0,"url":"./TV/live.txt","epg":"https://epg.hicloud.co/epg.php?ch={name}&date={date}"},
 		{
